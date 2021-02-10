@@ -8,3 +8,5 @@ Using this android application, an user can get a basic knowledge of phishing, I
 
 Here is the link for working UI/UX design in adobexd 
 https://xd.adobe.com/view/cab71526-5abd-4090-88f0-0526b1dd497a-9fe4/
+and rar file for complete functionality 
+https://drive.google.com/file/d/1LTupOpsbtnHNY0e8xM4rTiQW133tNWJE/view?usp=sharing
